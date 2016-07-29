@@ -1,0 +1,22 @@
+@inproceedings{Fuga14,
+  author    = {Ulderico Fugacci and
+               Federico Iuricich and
+               Leila {De Floriani}},
+  title     = {Efficient Computation of Simplicial Homology through Acyclic Matching},
+  booktitle = {16th International Symposium on Symbolic and Numeric Algorithms for
+               Scientific Computing, {SYNASC} 2014, Timisoara, Romania, September
+               22-25, 2014},
+  pages     = {587--593},
+  year      = {2014},
+  editor    = {Franz Winkler and
+               Viorel Negru and
+               Tetsuo Ida and
+               Tudor Jebelean and
+               Dana Petcu and
+               Stephen M. Watt and
+               Daniela Zaharie},
+  publisher = {{IEEE}},
+  doi       = {10.1109/SYNASC.2014.84},
+  isbn      = {978-1-4799-8447-3}
+}
+

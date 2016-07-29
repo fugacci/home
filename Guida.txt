@@ -1,0 +1,1 @@
+Per creare file papers.html:Vai da terminale nella cartella Web page e scrivibash createHtml.shPer caricare pagina su internet:Apri FilezillaHost: sftp://fugacci@openlab.umiacs.umd.edu/fs/www-users/fugaccifugacciMarangoni1Connessione rapida Metti a destra i file/cartelle:imagespapers scripts stylesindex.htmlpapers.html 
