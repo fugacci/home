@@ -4,7 +4,7 @@
                Leila {De Floriani}},
   title     = {Efficient Computation of Simplicial Homology through Acyclic Matching},
   booktitle = {16th International Symposium on Symbolic and Numeric Algorithms for
-               Scientific Computing, {SYNASC} 2014, Timisoara, Romania, September
+               Scientific Computing, {SYNASC} 2014, Timisoara, Romania,
                22-25, 2014},
   pages     = {587--593},
   year      = {2014},
