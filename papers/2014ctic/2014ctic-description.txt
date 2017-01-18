@@ -1,7 +1,7 @@
 Efficient Computation of Simplicial Homology Through Acyclic Matching
 2014
 U. Fugacci, L. De Floriani, F. Iuricich
-16th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing, SYNASC 2014, Timisoara, Romania, 22-25, 2014
+In 16th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing (SYNASC 2014), pages 587-593, 2014
 http://dx.doi.org/10.1109/SYNASC.2014.84
 We consider the problem of efficiently computing homology with Z coefficients as well as homology generators for simplicial complexes of arbitrary dimension. We analyze, compare and discuss the equivalence of different methods based on combining reductions, coreductions and discrete Morse theory. We show that the combination of these methods produces theoretically sound approaches which are mutually equivalent. One of these methods has been implemented for simplicial complexes by using a compact data structure for representing the complex and a compact encoding of the discrete Morse gradient. We present experimental results and discuss further developments.
 

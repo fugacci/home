@@ -1,6 +1,8 @@
 Homological Shape Analysis through Discrete Morse Theory
 2016
 L. De Floriani, U. Fugacci, F. Iuricich
-M. Breuss, A. Bruckstein, P. Maragos, St. Wuhrer (Eds.) in Perspectives in Shape Analysis. Springer International Publishing, 2016
+In Perspectives in Shape Analysis, Springer Berlin Heidelberg, pages 187-209, 2016
 http://dx.doi.org/10.1007/978-3-319-24726-7_9
-Homology and persistent homology computation are fundamental tools for shape analysis and understanding that recently gathered a lot of interest, in particular for analyzing multidimensional data. In this context discrete Morse theory, a combinatorial counterpart of smooth Morse theory, provides an excellent basis for reducing computational complexity in homology detection. A discrete Morse complex, computed over a given complex discretizing a shape, drastically reduces the number of cells of the latter while maintaining the same homology. Here, we consider the problem of shape analysis through discrete Morse theory, and we review and analyze algorithms for computing homology and persistent homology based on such theory.
+Homology and persistent homology computation are fundamental tools for shape analysis and understanding that recently gathered a lot of interest, in particular for analyzing multidimensional data. In this context discrete Morse theory, a combinatorial counterpart of smooth Morse theory, provides an excellent basis for reducing  computational complexity in homology detection. A discrete Morse complex, computed over a given complex discretizing a shape, drastically reduces the number of cells of the latter while maintaining the same homology. Here, we consider the problem of shape analysis through discrete Morse theory, and we review and analyze algorithms for computing homology and persistent homology based on such theory.
+
+

@@ -22,15 +22,14 @@ echo "<div id='main'>" >> papers.html
 echo "		<div id='header'>" >> papers.html
 echo "				<table width=90%>" >> papers.html
 echo "						<tr>" >> papers.html
+echo "							<td align='left'><div id=title>Ulderico Fugacci   </div></td>" >> papers.html
 echo "							<td align='left'>" >> papers.html
-echo "							<a target='_blank' href='http://www.umd.edu/'>" >> papers.html
-echo "							<img src='images/index.png' alt='University of Maryland' class='logo'  width=100px/>" >> papers.html
+echo "							<img src="images/index0.png" alt=" " class="logo"  width=100px/>" >> papers.html
 echo "							</a>" >> papers.html
 echo "							</td>" >> papers.html
-echo "							<td align='center'><div id=title>Ulderico Fugacci</div></td>" >> papers.html
 echo "							<td align='right'>" >> papers.html
-echo "							<a target='_blank' href='http://www.umiacs.umd.edu/'>" >> papers.html
-echo "							<img src='images/umiacs-logo.png' alt='Umiacs' class='logo'  width=120px/>" >> papers.html
+echo "							<a target='_blank' href='http://www.uni-kl.de/en/home/'>" >> papers.html
+echo "							<img src='images/TU-logo.png' alt='TU Kaiserslautern' class='logo'  width=200px/>" >> papers.html
 echo "							</a>" >> papers.html
 echo "							</td>" >> papers.html
 echo "						</tr>" >> papers.html
