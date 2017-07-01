@@ -38,6 +38,7 @@ echo "				<div id='menubar'>" >> papers.html
 echo "						<ul id='menu'>" >> papers.html
 echo "							<li><a href='index.html'>Home</a></li>" >> papers.html
 echo "							<li class='selected'><a href='papers.html'>Publications</a></li>" >> papers.html
+echo "							<li><a href='rabat.html'>Extra</a></li>" >> papers.html
 echo "						</ul>" >> papers.html
 echo "				</div>" >> papers.html
 echo "			</div>" >> papers.html
