@@ -3,8 +3,8 @@
 if __name__ == "__main__":
 
     print("""
-    we will build an ordered boundary matrix of this simplicial complex consisting of a single triangle: 
-    
+    we will build an ordered boundary matrix of this simplicial complex consisting of a single triangle:
+
      3
      |\\
      | \\
@@ -46,10 +46,13 @@ if __name__ == "__main__":
     print("Overall, the boundary matrix has %d entries." % len(boundary_matrix))
 
     pairs = boundary_matrix.compute_persistence_pairs()
+    # pairs = boundary_matrix.compute_persistence_pairs(reduction=phat.reductions.chunk_reduction)
+    # pairs = boundary_matrix.compute_persistence_pairs(reduction=phat.reductions.standard_reduction)
+    # pairs = boundary_matrix.compute_persistence_pairs(reduction=phat.reductions.row_reduction)
+    # pairs = boundary_matrix.compute_persistence_pairs(reduction=phat.reductions.spectral_sequence_reduction)
 
     pairs.sort()
 
     print("\nThere are %d persistence pairs: " % len(pairs))
     for pair in pairs:
         print("Birth: %d, Death: %d" % pair)
-
