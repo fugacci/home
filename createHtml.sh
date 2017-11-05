@@ -28,8 +28,8 @@ echo "							<img src="images/index0.png" alt=" " class="logo"  width=100px/>" >
 echo "							</a>" >> papers.html
 echo "							</td>" >> papers.html
 echo "							<td align='right'>" >> papers.html
-echo "							<a target='_blank' href='http://www.uni-kl.de/en/home/'>" >> papers.html
-echo "							<img src='images/TU-logo.png' alt='TU Kaiserslautern' class='logo'  width=200px/>" >> papers.html
+echo "							<a target='_blank' href='https://www.tugraz.at/home/'>" >> papers.html
+echo "							<img src='images/TU-logo.png' alt='TU Graz' class='logo'  width=200px/>" >> papers.html
 echo "							</a>" >> papers.html
 echo "							</td>" >> papers.html
 echo "						</tr>" >> papers.html
@@ -38,7 +38,7 @@ echo "				<div id='menubar'>" >> papers.html
 echo "						<ul id='menu'>" >> papers.html
 echo "							<li><a href='index.html'>Home</a></li>" >> papers.html
 echo "							<li class='selected'><a href='papers.html'>Publications</a></li>" >> papers.html
-echo "							<li><a href='rabat.html'>Extras</a></li>" >> papers.html
+echo "							<li><a href='extras.html'>Extras</a></li>" >> papers.html
 echo "						</ul>" >> papers.html
 echo "				</div>" >> papers.html
 echo "			</div>" >> papers.html
