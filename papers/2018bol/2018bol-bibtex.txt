@@ -1,6 +1,6 @@
-@article{bolognini2017betti,
+@article{bolognini2018betti,
   title={Betti splitting from a topological and computational point of view},
   author={Bolognini, D. and Fugacci, U.},
   journal={arXiv preprint arXiv:1704.01105},
-  year={2017}
+  year={2018}
 }
