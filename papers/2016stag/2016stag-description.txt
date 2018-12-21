@@ -1,7 +1,6 @@
-Persistent Homology: a Step-by-step Introduction for Newcomers
+Persistent Homology: a Step-by-Step Introduction for Newcomers
 2016
 U. Fugacci, S. Scaramuccia, F. Iuricich, L. De Floriani
 In Smart Tools and Apps for Graphics - Eurographics Italian Chapter Conference, 2016
-http://dx.doi.org/10.2312/stag.20161358 
+http://dx.doi.org/10.2312/stag.20161358
 Persistent homology is a powerful notion rooted in topological data analysis which allows for retrieving the essential topological features of an object. The attention on persistent homology is constantly growing in a large number of application domains, such as biology and chemistry, astrophysics, automatic classification of images, sensor and social network analysis. Thus, an increasing number of researchers is now approaching to persistent homology as a tool to be used in their research activity. At the same time, the literature lacks of tools for introducing beginners to this topic, especially if they do not have a strong mathematical background in algebraic topology. We propose here two complementary tools which meet this requirement. The first one is a web-based user-guide equipped with interactive examples to facilitate the comprehension of the notions at the basis of persistent homology. The second one is an interactive tool, with a specific focus on shape analysis, developed for studying persistence pairs by visualizing them directly on the input complex.
-
