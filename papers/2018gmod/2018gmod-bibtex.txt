@@ -1,6 +1,0 @@
-@article{fugacci2018computing,
-  title={Computing discrete Morse complexes from simplicial complexes},
-  author={Fugacci, U. and Iuricich, F. and De Floriani, L.},
-  journal={arXiv preprint arXiv:1811.04485},
-  year={2018}
-}
