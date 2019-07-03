@@ -1,6 +1,0 @@
-@article{Felle19,
-title = {{Efficient Homology-Preserving Simplification of High-Dimensional Simplicial Shapes}},
-journal = {Computer Graphics Forum},
-year = {2019},
-author = {R. Fellegara and F. Iuricich and L. {De Floriani} and U. Fugacci}
-}
