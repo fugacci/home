@@ -1,0 +1,12 @@
+@inproceedings{Fellegara2016,
+ author = {Riccardo Fellegara, Ulderico Fugacci, Federico Iuricich and Leila {De Floriani}},
+ title = {Analysis of geolocalized social networks based on simplicial complexes},
+ booktitle = {9th ACM SIGSPATIAL International Workshop on Location-Based Social Networks (LSBN)},
+ year = {2016},
+ isbn = {978-1-4503-4586-6/16/10},
+ location = {San Francisco},
+ numpages = {8},
+ url = {http://dx.doi.org/10.1145/3021304.3021309},
+ doi = {10.1145/3021304.3021309},
+ publisher = {ACM}
+}

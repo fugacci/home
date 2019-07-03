@@ -1,0 +1,6 @@
+@article{fugacci2018chunk,
+  title={Chunk Reduction for Multi-Parameter Persistent Homology},
+  author={Fugacci, U. and Kerber, M.},
+  journal={arXiv preprint arXiv:1812.08580},
+  year={2018}
+}
