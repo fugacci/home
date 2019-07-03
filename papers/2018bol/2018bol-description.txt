@@ -1,6 +1,0 @@
-Betti Splitting from a Topological and Computational Point of View
-2018
-D. Bolognini, U. Fugacci,
-In arXiv preprint arXiv:1704.01105
-https://arxiv.org/abs/1704.01105
-A Betti splitting I=J+K of a monomial ideal I ensures the recovery of the graded Betti numbers of I starting from those of J,K and J∩K. In this paper, we introduce this condition for simplicial complexes, and, by using Alexander duality, we prove that it is equivalent to a recursive splitting conditions on links of some vertices. The adopted point of view enables for relating the existence of a Betti splitting for a simplicial complex Δ to the topological properties of Δ. Among other results, we prove that orientability for a manifold without boundary is equivalent to admit a Betti splitting induced by the removal of a single facet. Taking advantage of this topological approach, we provide the first example in literature admitting Betti splitting but with characteristic-dependent resolution. Moreover, we introduce the notion of splitting probability, useful to deal with results concerning existence of Betti splitting.
