@@ -1,6 +1,0 @@
-Clique Community Persistence: A Topological Visual Analysis Approach for Complex Networks
-2017
-B. Rieck, U. Fugacci, J. Lukasczyk, H. Leitte
-In IEEE Transactions on Visualization and Computer Graphics, 2017
-http://ieeexplore.ieee.org/document/8017588
-Complex networks require effective tools and visualizations for their analysis and comparison. Clique communities have been recognized as a powerful concept for describing cohesive structures in networks. We propose an approach that extends the computation of clique communities by considering persistent homology, a topological paradigm originally introduced to characterize and compare the global structure of shapes. Our persistence-based algorithm is able to detect clique communities and to keep track of their evolution according to different edge weight thresholds. We use this information to define comparison metrics and a new centrality measure, both reflecting the relevance of the clique communities inherent to the network. Moreover, we propose an interactive visualization tool based on nested graphs that is capable of compactly representing the evolving relationships between communities for different thresholds and clique degrees. We demonstrate the effectiveness of our approach on various network types.
