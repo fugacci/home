@@ -28,8 +28,8 @@ echo "							<img src="images/index0.png" alt=" " class="logo"  width=100px/>" >
 echo "							</a>" >> papers.html
 echo "							</td>" >> papers.html
 echo "							<td align='right'>" >> papers.html
-echo "							<a target='_blank' href='https://www.tugraz.at/home/'>" >> papers.html
-echo "							<img src='images/TU-logo.png' alt='TU Graz' class='logo'  width=200px/>" >> papers.html
+echo "							<a target='_blank' href='http://www.disma.polito.it'>" >> papers.html
+echo "							<img src="images/Disma.png" alt="Disma" class="logo"  width=275px/>" >> papers.html
 echo "							</a>" >> papers.html
 echo "							</td>" >> papers.html
 echo "						</tr>" >> papers.html
@@ -122,7 +122,11 @@ do
 	fi
 	if [ "${arr[6]}" == "M" ]
 	then
-		echo "<div class=h3Green align='right'> Awarded with an Honorable Mention </div>" >> ../papers.html
+		echo "<div class=h3Green align='right'> Awarded with an Honorable Mention at SMI 2015 </div>" >> ../papers.html
+	fi
+  if [ "${arr[6]}" == "N" ]
+	then
+		echo "<div class=h3Green align='right'> Awarded with as Best Paper at SMI 2019 </div>" >> ../papers.html
 	fi
 	if [ "${arr[6]}" == "B" ]
 	then

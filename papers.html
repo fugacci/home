@@ -16,8 +16,8 @@
 							</a>
 							</td>
 							<td align='right'>
-							<a target='_blank' href='https://www.tugraz.at/home/'>
-							<img src='images/TU-logo.png' alt='TU Graz' class='logo'  width=200px/>
+							<a target='_blank' href='http://www.disma.polito.it'>
+							<img src=images/Disma.png alt=Disma class=logo  width=275px/>
 							</a>
 							</td>
 						</tr>
@@ -32,8 +32,126 @@
 			</div>
 <div id=content>
 <br><h2 id=name>
+2019
+</h2>
+<div id=paper>
+<p><b>
+Chunk Reduction for Multi-Parameter Persistent Homology
+</b><br>
+U. Fugacci, M. Kerber
+<br>
+<em>
+In 39th International Symposium on Computational Geometry, 2019
+</em><br>
+[<a target='_blank' href='
+papers/2019socg/2019socg-bibtex.txt
+'>bibtex</a>]
+[<a target='_blank' href='
+https://arxiv.org/abs/1812.08580
+'>doi</a>]
+<details><summary>Abstract</summary>
+The extension of persistent homology to multi-parameter setups is an algorithmic challenge. Since most computation tasks scale badly with the size of the input complex, an important pre-processing step consists of simplifying the input while maintaining the homological information. We present an algorithm that drastically reduces the size of an input. Our approach is an extension of the chunk algorithm for persistent homology (Bauer et al., Topological Methods in Data Analysis and Visualization III, 2014).
+</details>
+  </div>
+<div id=paper>
+<p><b>
+A Kernel for Multi-Parameter Persistent Homology
+</b><br>
+R. Corbet, U. Fugacci, M. Kerber, C. Landi, B. Wang
+<br>
+<em>
+In Computer and Graphics, vol. 2, page 100005, 2019
+</em><br>
+[<a target='_blank' href='
+papers/2019smi/2019smi-bibtex.txt
+'>bibtex</a>]
+[<a target='_blank' href='
+http://www.sciencedirect.com/science/article/pii/S2590148619300056
+'>doi</a>]
+<div class=h3Green align='right'> Awarded with as Best Paper at SMI 2019 </div>
+<details><summary>Abstract</summary>
+Topological data analysis and its main method, persistent homology, provide a toolkit for computing topological information of high-dimensional and noisy data sets. Kernels for one-parameter persistent homology have been established to connect persistent homology with machine learning techniques with applicability on shape analysis, recognition and classification. We contribute a kernel construction for multi-parameter persistence by integrating a one-parameter kernel weighted along straight lines. We prove that our kernel is stable and efficiently computable, which establishes a theoretical connection between topological data analysis and machine learning for multivariate data analysis.
+</details>
+  </div>
+<div id=paper>
+<p><b>
+Computing Discrete Morse Complexes from Simplicial Complexes
+</b><br>
+U. Fugacci, F. Iuricich, L. De Floriani
+<br>
+<em>
+In Graphical Models, 2019
+</em><br>
+[<a target='_blank' href='
+papers/2019gmod/2019gmod-bibtex.txt
+'>bibtex</a>]
+[<a target='_blank' href='
+http://www.sciencedirect.com/science/article/pii/S1524070319300141
+'>doi</a>]
+<details><summary>Abstract</summary>
+We consider the problem of efficiently computing a discrete Morse complex on simplicial complexes of arbitrary dimension and very large size. Based on a common graph-based formalism, we analyze existing data structures for simplicial complexes, and we define an efficient encoding for the discrete Morse gradient on the most compact of such representations. We theoretically compare methods based on reductions and coreductions for computing a discrete Morse gradient, proving that the combination of reductions and coreductions produces new mutually equivalent approaches. We design and implement a new algorithm for computing a discrete Morse complex on simplicial complexes. We show that our approach scales very well with the size and the dimension of the simplicial complex also through comparisons with the only existing public-domain algorithm for discrete Morse complex computation. We discuss applications to the computation of multi-parameter persistent homology and of extremum graphs for visualization of time-varying 3D scalar fields.
+</details>
+  </div>
+<div id=paper>
+<p><b>
+Efficient Homology-Preserving Simplification of High-Dimensional Simplicial Shapes
+</b><br>
+R. Fellegara, F. Iuricich, L. De Floriani, and U. Fugacci
+<br>
+<em>
+In Computer Graphics Forum, 2019
+</em><br>
+[<a target='_blank' href='
+papers/2019cgf/2019cgf-bibtex.txt
+'>bibtex</a>]
+[<a target='_blank' href='
+https://fugacci.github.io/home/papers.html
+'>doi</a>]
+<details><summary>Abstract</summary>
+Simplicial complexes are widely used to discretize shapes. In low dimensions, a 3D shape is represented by discretizing its boundary surface, encoded as a triangle mesh, or by discretizing the enclosed volume, encoded as a tetrahedral mesh. High-dimensional simplicial complexes have recently found their application in topological data analysis. Topological data analysis aims at studying a point cloud P, possibly embedded in a high-dimensional metric space, by investigating the topological characteristics of the simplicial complexes built on P. Analyzing such complexes is not feasible due to their size and dimensions. To this aim, the idea of simplifying a complex while preserving its topological features has been proposed in the literature. Here, we consider the problem of efficiently simplifying simplicial complexes in arbitrary dimensions. We provide a new definition for the edge contraction operator, based on a top-based data structure, with the objective of preserving structural
+</details>
+  </div>
+<div id=paper>
+<p><b>
+Betti Splitting from a Topological Point of View
+</b><br>
+D. Bolognini, U. Fugacci,
+<br>
+<em>
+In Journal of Algebra and Its Applications, 2019
+</em><br>
+[<a target='_blank' href='
+papers/2019bol/2019bol-bibtex.txt
+'>bibtex</a>]
+[<a target='_blank' href='
+https://doi.org/10.1142/S0219498820501169
+'>doi</a>]
+<details><summary>Abstract</summary>
+A Betti splitting I = J + K of a monomial ideal I ensures the recovery of the graded Betti numbers of I starting from those of J,K and J ∩ K. In this paper, we introduce an analogous notion for simplicial complexes, using Alexander duality, proving that it is equivalent to a recursive splitting condition on links of some vertices. We provide results ensuring the existence of a Betti splitting for a simplicial complex Δ, relating it to topological properties of Δ. Among other things, we prove that orientability for a manifold without boundary is equivalent to the admission of a Betti splitting induced by the removal of a single facet. Taking advantage of our topological approach, we provide the first example of a monomial ideal which admits Betti splittings in all characteristics but with characteristic-dependent resolution. Moreover, we introduce new numerical descriptors for simplicial complexes and topological spaces, useful to deal with questions concerning the existence of Betti splitting.
+</details>
+  </div>
+<br><h2 id=name>
 2018
 </h2>
+<div id=paper>
+<p><b>
+Clique Community Persistence: A Topological Visual Analysis Approach for Complex Networks
+</b><br>
+B. Rieck, U. Fugacci, J. Lukasczyk, H. Leitte
+<br>
+<em>
+In IEEE Transactions on Visualization and Computer Graphics, 2018
+</em><br>
+[<a target='_blank' href='
+papers/2018vis/2018vis-bibtex.txt
+'>bibtex</a>]
+[<a target='_blank' href='
+http://ieeexplore.ieee.org/document/8017588
+'>doi</a>]
+<details><summary>Abstract</summary>
+Complex networks require effective tools and visualizations for their analysis and comparison. Clique communities have been recognized as a powerful concept for describing cohesive structures in networks. We propose an approach that extends the computation of clique communities by considering persistent homology, a topological paradigm originally introduced to characterize and compare the global structure of shapes. Our persistence-based algorithm is able to detect clique communities and to keep track of their evolution according to different edge weight thresholds. We use this information to define comparison metrics and a new centrality measure, both reflecting the relevance of the clique communities inherent to the network. Moreover, we propose an interactive visualization tool based on nested graphs that is capable of compactly representing the evolving relationships between communities for different thresholds and clique degrees. We demonstrate the effectiveness of our approach on various network types.
+</details>
+  </div>
 <div id=paper>
 <p><b>
 A Kernel for Multi-Parameter Persistent Homology
@@ -55,25 +173,6 @@ Topological data analysis and its main method, persistent homology, provide a to
   </div>
 <div id=paper>
 <p><b>
-Computing Discrete Morse Complexes from Simplicial Complexes
-</b><br>
-U. Fugacci, F. Iuricich, L. De Floriani
-<br>
-<em>
-In arXiv preprint arXiv:1811.04485
-</em><br>
-[<a target='_blank' href='
-papers/2018gmod/2018gmod-bibtex.txt
-'>bibtex</a>]
-[<a target='_blank' href='
-https://arxiv.org/abs/1811.04485
-'>doi</a>]
-<details><summary>Abstract</summary>
-We consider the problem of efficiently computing a discrete Morse complex on simplicial complexes of arbitrary dimension and very large size. Based on a common graph-based formalism, we analyze existing data structures for simplicial complexes, and we define an efficient encoding for the discrete Morse gradient on the most compact of such representations. We theoretically compare methods based on reductions and coreductions for computing a discrete Morse gradient, proving that the combination of reductions and coreductions produces new mutually equivalent approaches. We design and implement a new algorithm for computing a discrete Morse complex on simplicial complexes. We show that our approach scales very well with the size and the dimension of the simplicial complex also through comparisons with the only existing public-domain algorithm for discrete Morse complex computation. We discuss applications to the computation of multi-parameter persistent homology and of extrema graphs for visualization of time-varying 3D scalar fields.
-</details>
-  </div>
-<div id=paper>
-<p><b>
 Chunk Reduction for Multi-Parameter Persistent Homology
 </b><br>
 U. Fugacci, M. Kerber
@@ -89,47 +188,6 @@ https://arxiv.org/abs/1812.08580
 '>doi</a>]
 <details><summary>Abstract</summary>
 The extension of persistent homology to multi-parameter setups is an algorithmic challenge. Since most computation tasks scale badly with the size of the input complex, an important pre-processing step consists of simplifying the input while maintaining the homological information. We present an algorithm that drastically reduces the size of an input. Our approach is an extension of the chunk algorithm for persistent homology (Bauer et al., Topological Methods in Data Analysis and Visualization III, 2014). We show that our construction produces the smallest multi-filtered chain complex among all the complexes quasi-isomorphic to the input, improving on the guarantees of previous work in the context of discrete Morse theory. Our algorithm also offers an immediate parallelization scheme in shared memory. Already its sequential version compares favorably with existing simplification schemes, as we show by experimental evaluation.
-</details>
-  </div>
-<div id=paper>
-<p><b>
-Betti Splitting from a Topological and Computational Point of View
-</b><br>
-D. Bolognini, U. Fugacci,
-<br>
-<em>
-In arXiv preprint arXiv:1704.01105
-</em><br>
-[<a target='_blank' href='
-papers/2018bol/2018bol-bibtex.txt
-'>bibtex</a>]
-[<a target='_blank' href='
-https://arxiv.org/abs/1704.01105
-'>doi</a>]
-<details><summary>Abstract</summary>
-A Betti splitting I=J+K of a monomial ideal I ensures the recovery of the graded Betti numbers of I starting from those of J,K and J∩K. In this paper, we introduce this condition for simplicial complexes, and, by using Alexander duality, we prove that it is equivalent to a recursive splitting conditions on links of some vertices. The adopted point of view enables for relating the existence of a Betti splitting for a simplicial complex Δ to the topological properties of Δ. Among other results, we prove that orientability for a manifold without boundary is equivalent to admit a Betti splitting induced by the removal of a single facet. Taking advantage of this topological approach, we provide the first example in literature admitting Betti splitting but with characteristic-dependent resolution. Moreover, we introduce the notion of splitting probability, useful to deal with results concerning existence of Betti splitting.
-</details>
-  </div>
-<br><h2 id=name>
-2017
-</h2>
-<div id=paper>
-<p><b>
-Clique Community Persistence: A Topological Visual Analysis Approach for Complex Networks
-</b><br>
-B. Rieck, U. Fugacci, J. Lukasczyk, H. Leitte
-<br>
-<em>
-In IEEE Transactions on Visualization and Computer Graphics, 2017
-</em><br>
-[<a target='_blank' href='
-papers/2017vis/2017vis-bibtex.txt
-'>bibtex</a>]
-[<a target='_blank' href='
-http://ieeexplore.ieee.org/document/8017588
-'>doi</a>]
-<details><summary>Abstract</summary>
-Complex networks require effective tools and visualizations for their analysis and comparison. Clique communities have been recognized as a powerful concept for describing cohesive structures in networks. We propose an approach that extends the computation of clique communities by considering persistent homology, a topological paradigm originally introduced to characterize and compare the global structure of shapes. Our persistence-based algorithm is able to detect clique communities and to keep track of their evolution according to different edge weight thresholds. We use this information to define comparison metrics and a new centrality measure, both reflecting the relevance of the clique communities inherent to the network. Moreover, we propose an interactive visualization tool based on nested graphs that is capable of compactly representing the evolving relationships between communities for different thresholds and clique degrees. We demonstrate the effectiveness of our approach on various network types.
 </details>
   </div>
 <br><h2 id=name>
@@ -210,7 +268,7 @@ papers/2015smi/2015smi-bibtex.txt
 [<a target='_blank' href='
 http://dx.doi.org/10.1016/j.cag.2015.05.007
 '>doi</a>]
-<div class=h3Green align='right'> Awarded with an Honorable Mention </div>
+<div class=h3Green align='right'> Awarded with an Honorable Mention at SMI 2015 </div>
 <details><summary>Abstract</summary>
 We address the problem of simplifying Morse–Smale complexes computed on volume datasets based on discrete Morse theory. Two approaches have been proposed in the literature based on a graph representation of the Morse–Smale complex (explicit approach) and on the encoding of the discrete Morse gradient (implicit approach). It has been shown that this latter can generate topologically-inconsistent representations of the Morse–Smale complex with respect to those computed through the explicit approach. We propose a new simplification algorithm that creates topologically-consistent Morse–Smale complexes and works both with the explicit and the implicit representations. We prove the correctness of our simplification approach, implement it on volume data sets described as unstructured tetrahedral meshes and evaluate its simplification power with respect to the usual Morse simplification algorithm.
 </details>
@@ -234,6 +292,25 @@ http://dx.doi.org/10.1111/cgf.12596
 Morse theory offers a natural and mathematically-sound tool for shape analysis and understanding. It allows studying the behavior of a scalar function defined on a manifold. Starting from a Morse function, we can decompose the domain of the function into meaningful regions associated with the critical points of the function. Such decompositions, called Morse complexes, provide a segmentation of a shape and are extensively used in terrain modeling and in scientific visualization. Discrete Morse theory, a combinatorial counterpart of smooth Morse theory defined over cell complexes, provides an excellent basis for computing Morse complexes in a robust and efficient way. Moreover, since a discrete Morse complex computed over a given complex has the same homology as the original one, but fewer cells, discrete Morse theory is a fundamental tool for efficiently detecting holes in shapes through homology and persistent homology. In this survey, we review, classify and analyze algorithms for computing and simplifying Morse complexes in the context of such applications with an emphasis on discrete Morse theory and on algorithms based on it.
 </details>
   </div>
+<div id=paper>
+<p><b>
+Efficient Computation of Simplicial Homology Through Acyclic Matching
+</b><br>
+U. Fugacci, L. De Floriani, F. Iuricich
+<br>
+<em>
+In 16th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing (SYNASC 2014), pages 587-593, 2015
+</em><br>
+[<a target='_blank' href='
+papers/2015ctic/2015ctic-bibtex.txt
+'>bibtex</a>]
+[<a target='_blank' href='
+http://dx.doi.org/10.1109/SYNASC.2014.84
+'>doi</a>]
+<details><summary>Abstract</summary>
+We consider the problem of efficiently computing homology with Z coefficients as well as homology generators for simplicial complexes of arbitrary dimension. We analyze, compare and discuss the equivalence of different methods based on combining reductions, coreductions and discrete Morse theory. We show that the combination of these methods produces theoretically sound approaches which are mutually equivalent. One of these methods has been implemented for simplicial complexes by using a compact data structure for representing the complex and a compact encoding of the discrete Morse gradient. We present experimental results and discuss further developments.
+</details>
+  </div>
 <br><h2 id=name>
 2014
 </h2>
@@ -254,25 +331,6 @@ http://dx.doi.org/10.1016/j.cviu.2013.11.011
 '>doi</a>]
 <details><summary>Abstract</summary>
 We propose a set of atomic modeling operators for simplifying and refining cell complexes in arbitrary dimensions. Such operators either preserve the homology of the cell complex, or they modify it in a controlled way. We show that such operators form a minimally complete basis for updating cell complexes, and we compare them with various operators previously proposed in the literature. Based on the new operators, we define a hierarchical model for cell complexes, that we call a Hierarchical Cell Complex (HCC), and we discuss its properties. An HCC implicitly encodes a virtually continuous set of complexes obtained from the original complex through the application of our operators. Then, we describe the implementation of a version of the HCC based on the subset of the proposed modeling operators which preserve homology. We apply the homology-preserving HCC to enhance the efficiency in extracting homology generators at different resolutions. To this aim, we propose an algorithm which computes homology generators on the coarsest representation of the original complex, and uses the hierarchical model to propagate them to complexes at any intermediate resolution, and we prove its correctness. Finally, we present experimental results showing the efficiency and effectiveness of the proposed approach.
-</details>
-  </div>
-<div id=paper>
-<p><b>
-Efficient Computation of Simplicial Homology Through Acyclic Matching
-</b><br>
-U. Fugacci, L. De Floriani, F. Iuricich
-<br>
-<em>
-In 16th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing (SYNASC 2014), pages 587-593, 2014
-</em><br>
-[<a target='_blank' href='
-papers/2014ctic/2014ctic-bibtex.txt
-'>bibtex</a>]
-[<a target='_blank' href='
-http://dx.doi.org/10.1109/SYNASC.2014.84
-'>doi</a>]
-<details><summary>Abstract</summary>
-We consider the problem of efficiently computing homology with Z coefficients as well as homology generators for simplicial complexes of arbitrary dimension. We analyze, compare and discuss the equivalence of different methods based on combining reductions, coreductions and discrete Morse theory. We show that the combination of these methods produces theoretically sound approaches which are mutually equivalent. One of these methods has been implemented for simplicial complexes by using a compact data structure for representing the complex and a compact encoding of the discrete Morse gradient. We present experimental results and discuss further developments.
 </details>
   </div>
 </div>

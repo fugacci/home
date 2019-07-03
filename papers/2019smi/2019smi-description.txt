@@ -1,0 +1,7 @@
+A Kernel for Multi-Parameter Persistent Homology
+2019
+R. Corbet, U. Fugacci, M. Kerber, C. Landi, B. Wang
+In Computer and Graphics, vol. 2, page 100005, 2019
+http://www.sciencedirect.com/science/article/pii/S2590148619300056
+Topological data analysis and its main method, persistent homology, provide a toolkit for computing topological information of high-dimensional and noisy data sets. Kernels for one-parameter persistent homology have been established to connect persistent homology with machine learning techniques with applicability on shape analysis, recognition and classification. We contribute a kernel construction for multi-parameter persistence by integrating a one-parameter kernel weighted along straight lines. We prove that our kernel is stable and efficiently computable, which establishes a theoretical connection between topological data analysis and machine learning for multivariate data analysis.
+N

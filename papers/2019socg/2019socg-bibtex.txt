@@ -1,0 +1,6 @@
+@inproceedings{fugacci2019chunk,
+  title={{Chunk Reduction for Multi-Parameter Persistent Homology}},
+  author={Fugacci, U. and Kerber, M.},
+  booktitle = {In 39th International Symposium on Computational Geometry, 2019},
+  year={2019}
+}
