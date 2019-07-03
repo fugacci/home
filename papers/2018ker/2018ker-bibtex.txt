@@ -1,6 +1,0 @@
-@article{corbet2018kernel,
-  title={A Kernel for Multi-Parameter Persistent Homology},
-  author={Corbet, R. and Fugacci, U. and Kerber, M. and Landi, C. and Wang, B.},
-  journal={arXiv preprint arXiv:1809.10231},
-  year={2018}
-}
