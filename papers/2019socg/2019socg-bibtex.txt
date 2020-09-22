@@ -1,6 +1,17 @@
 @inproceedings{fugacci2019chunk,
   title={{Chunk Reduction for Multi-Parameter Persistent Homology}},
   author={Fugacci, U. and Kerber, M.},
-  booktitle = {In 39th International Symposium on Computational Geometry, 2019},
-  year={2019}
+  booktitle =	{35th International Symposium on Computational Geometry (SoCG 2019)},
+  pages =	{37:1--37:14},
+  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN =	{978-3-95977-104-7},
+  ISSN =	{1868-8969},
+  year =	{2019},
+  volume =	{129},
+  editor =	{Gill Barequet and Yusu Wang},
+  publisher =	{Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik},
+  address =	{Dagstuhl, Germany},
+  URL =		{http://drops.dagstuhl.de/opus/volltexte/2019/10441},
+  URN =		{urn:nbn:de:0030-drops-104413},
+  doi =		{10.4230/LIPIcs.SoCG.2019.37}
 }

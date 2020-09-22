@@ -1,8 +1,10 @@
 @article{Rieck2018,
-author = {Rieck, B. and Fugacci, U. and Lukasczyk, J. and Leitte, H.},
-doi = {10.1109/TVCG.2017.2744321},
-issn = {10772626},
-journal = {IEEE Transactions on Visualization and Computer Graphics},
-title = {{Clique Community Persistence: A Topological Visual Analysis Approach for Complex Networks}},
-year = {2017}
-}
+author={B. {Rieck} and U. {Fugacci} and J. {Lukasczyk} and H. {Leitte}},
+journal={IEEE Transactions on Visualization and Computer Graphics},
+title={{Clique Community Persistence: a Topological Visual Analysis Approach for Complex Networks}},
+year={2018},
+volume={24},
+number={1},
+pages={822-831},
+doi={10.1109/TVCG.2017.2744321},
+ISSN={1077-2626}}
