@@ -1,8 +1,0 @@
-Chunk Reduction for Multi-Parameter Persistent Homology
-2019
-U. Fugacci, M. Kerber
-In 35th International Symposium on Computational Geometry, vol. 129, pages 37:1-37:14, 2019
-https://drops.dagstuhl.de/opus/volltexte/2019/10441/
-The extension of persistent homology to multi-parameter setups is an algorithmic challenge. Since most computation tasks scale badly with the size of the input complex, an important pre-processing step consists of simplifying the input while maintaining the homological information. We present an algorithm that drastically reduces the size of an input. Our approach is an extension of the chunk algorithm for persistent homology (Bauer et al., Topological Methods in Data Analysis and Visualization III, 2014).
-We show that our construction produces the smallest multi-filtered chain complex among all the complexes quasi-isomorphic to the input, improving on the guarantees of previous work in the context of discrete Morse theory.
-Our algorithm also offers an immediate parallelization scheme in shared memory. Already its sequential version compares favorably with existing simplification schemes, as we show by experimental evaluation.

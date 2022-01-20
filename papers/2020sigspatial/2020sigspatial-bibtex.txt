@@ -1,6 +1,0 @@
-@article{fugacci2020topology,
-  title={Topology-Preserving Terrain Simplification},
-  author={Fugacci, Ulderico and Kerber, Michael and Manet, Hugo},
-  journal={arXiv preprint arXiv:1912.03032},
-  year={2020}
-}
