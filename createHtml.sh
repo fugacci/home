@@ -39,6 +39,7 @@ echo "						<ul id='menu'>" >> papers.html
 echo "							<li><a href='index.html'>Home</a></li>" >> papers.html
 echo "							<li class='selected'><a href='papers.html'>Publications</a></li>" >> papers.html
 # echo "							<li><a href='extras.html'>Extras</a></li>" >> papers.html
+echo "							<li><a href='notes.html'>Notes</a></li>" >> papers.html
 echo "						</ul>" >> papers.html
 echo "				</div>" >> papers.html
 echo "			</div>" >> papers.html
@@ -50,7 +51,7 @@ do
 
 	#rm papers.html
 
-	arr=("","","","","","","","")
+	arr=("","","","","","","","","","","","","")
 	k=0;
 
 	while read line
@@ -119,6 +120,36 @@ do
 		echo "[<a target='_blank' href='" >> ../papers.html
 		echo papers/$i${i%%/}-poster.ppt >> ../papers.html
 		echo "'>poster</a>]" >> ../papers.html
+	fi
+	if [ "${arr[7]}" != "" ]
+	then
+		echo "[<a target='_blank' href='" >> ../papers.html
+		echo "${arr[7]}" >> ../papers.html
+		echo "'>video</a>]" >> ../papers.html
+	fi
+	if [ "${arr[8]}" != "" ]
+	then
+		echo "[<a target='_blank' href='" >> ../papers.html
+		echo "${arr[8]}" >> ../papers.html
+		echo "'>short video</a>]" >> ../papers.html
+	fi
+	if [ "${arr[9]}" != "" ]
+	then
+		echo "[<a target='_blank' href='" >> ../papers.html
+		echo "${arr[9]}" >> ../papers.html
+		echo "'>code</a>]" >> ../papers.html
+	fi
+	if [ "${arr[10]}" != "" ]
+	then
+		echo "[<a target='_blank' href='" >> ../papers.html
+		echo "${arr[10]}" >> ../papers.html
+		echo "'>other</a>]" >> ../papers.html
+	fi
+	if [ "${arr[11]}" != "" ]
+	then
+		echo "[<a target='_blank' href='" >> ../papers.html
+		echo "${arr[11]}" >> ../papers.html
+		echo "'>arXiv</a>]" >> ../papers.html
 	fi
 	if [ "${arr[6]}" == "M" ]
 	then
