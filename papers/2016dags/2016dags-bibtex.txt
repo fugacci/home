@@ -1,0 +1,12 @@
+@Inbook{DeFloriani2016,
+  author="{De Floriani}, Leila and Fugacci, Ulderico and Iuricich, Federico",
+  editor="Breu{\ss}, Michael and Bruckstein, Alfred and Maragos, Petros and Wuhrer, Stefanie",
+  title="Homological Shape Analysis Through Discrete {M}orse Theory",
+  bookTitle="Perspectives in Shape Analysis",
+  year="2016",
+  publisher="Springer International Publishing",
+  address="Cham",
+  pages="187--209",
+  isbn="978-3-319-24726-7",
+  doi="10.1007/978-3-319-24726-7_9"
+}

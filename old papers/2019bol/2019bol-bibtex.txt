@@ -1,0 +1,8 @@
+@article{bolognini2019betti,
+  title={{Betti Splitting from a Topological and Computational Point of View}},
+  author={Bolognini, D. and Fugacci, U.},
+  journal={Journal of Algebra and Its Applications},
+  year={2019},
+  doi = {10.1142/S0219498820501169},
+  URL = { https://doi.org/10.1142/S0219498820501169 }
+}

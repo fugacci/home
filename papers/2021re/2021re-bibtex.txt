@@ -1,0 +1,12 @@
+@article{ferrara2021design,
+  title={Design optimization of renewable energy systems for {NZEBs} based on deep residual learning},
+  author={Ferrara, M. and {Della Santa}, F. and Bilardo, M. and {De Gregorio}, A. and Mastropietro, A. and Fugacci, U. and Vaccarino, F. and Fabrizio, E.},
+  journal={Renewable Energy},
+  volume={176},
+  pages={590--605},
+  year={2021},
+  issn = {0960-1481},
+  doi = {https://doi.org/10.1016/j.renene.2021.05.044},
+  url = {https://www.sciencedirect.com/science/article/pii/S0960148121007205},
+  publisher={Elsevier}
+}
