@@ -1,0 +1,17 @@
+@Inbook{Vaccarino2022,
+author="Vaccarino, Francesco
+and Fugacci, Ulderico
+and Scaramuccia, Sara",
+editor="Battiston, Federico
+and Petri, Giovanni",
+title="Persistent Homology: A Topological Tool for Higher-Interaction Systems",
+bookTitle="Higher-Order Systems",
+year="2022",
+publisher="Springer International Publishing",
+address="Cham",
+pages="97--139",
+abstract="The aim of this chapter is to give a handy but thorough introduction to persistent homology and its applications. The chapter's path is made by the following steps. First, we deal with the constructions from data to simplicial complexes according to the kind of data: filtrations of data, point clouds, networks, and topological spaces. For each construction, we underline the possible dependence on a fixed scale parameter. Secondly, we introduce the necessary algebraic structures capturing topological informations out of a simplicial complex at a fixed scale, namely the simplicial homology groups and the Hodge Laplacian operator. The so-obtained linear structures are then integrated into the multiscale framework of persistent homology where the entire persistence information is encoded in algebraic terms and the most advantageous persistence summaries available in the literature are discussed. Finally, we introduce the necessary metrics in order to state properties of stability of the introduced multiscale summaries under perturbations of input data. At the end, we give an overview of applications of persistent homology as well as a review of the existing tools in the broader area of Topological Data Analysis (TDA).",
+isbn="978-3-030-91374-8",
+doi="10.1007/978-3-030-91374-8_3",
+url="https://doi.org/10.1007/978-3-030-91374-8_3"
+}
