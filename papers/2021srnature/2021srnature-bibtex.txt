@@ -1,0 +1,10 @@
+@article{guerra2021homological,
+  title={Homological scaffold via minimal homology bases},
+  author={Guerra, M. and {De Gregorio}, A. and Fugacci, U. and Petri, G. and Vaccarino, F.},
+  journal={Scientific reports},
+  volume={11},
+  number={1},
+  pages={1--17},
+  year={2021},
+  publisher={Nature Publishing Group}
+}
