@@ -1,0 +1,17 @@
+@article{Comi14-cviu,
+  author    = {Lidija Comic and
+               Leila {De Floriani} and
+               Federico Iuricich and
+               Ulderico Fugacci},
+  title     = {Topological modifications and hierarchical representation of cell
+               complexes in arbitrary dimensions},
+  journal   = {Computer Vision and Image Understanding},
+  year      = {2014},
+  volume    = {121},
+  pages     = {2--12},
+  url       = {http://dx.doi.org/10.1016/j.cviu.2013.11.011},
+  doi       = {10.1016/j.cviu.2013.11.011},
+  timestamp = {Tue, 28 Oct 2014 01:10:54 +0100},
+  biburl    = {http://dblp.uni-trier.de/rec/bib/journals/cviu/ComicFIF14},
+  bibsource = {dblp computer science bibliography, http://dblp.org}
+}

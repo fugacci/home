@@ -1,0 +1,13 @@
+@article{Iuri15,
+title = "Topologically-consistent simplification of discrete {M}orse complex ",
+journal = "Computers \& Graphics ",
+volume = "51",
+number = "",
+pages = "157--166",
+year = "2015",
+note = "International Conference Shape Modeling International ",
+issn = "0097-8493",
+doi = "http://dx.doi.org/10.1016/j.cag.2015.05.007",
+url = "http://www.sciencedirect.com/science/article/pii/S0097849315000540",
+author = "Federico Iuricich and Ulderico Fugacci and Leila {De Floriani}"
+}
