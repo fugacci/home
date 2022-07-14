@@ -1,0 +1,10 @@
+Chanalyzer: a Computational Geometry Approach for the Analysis of Protein Channel Shape and Dynamics
+Preprints
+A. Raffo, L. Gagliardi, U. Fugacci, L. Sagresti, S. Grandinetti, G. Brancato, S. Biasotti, W. Rocchia
+Under submission
+
+Morphological analysis of protein channels is a key step for a thorough understanding of their biological function and mechanism. In this respect, molecular dynamics (MD) is a very powerful tool, enabling the description of relevant biological events at the atomic level, which might elude experimental observations, and pointing to the molecular determinants thereof. In this work, we present a computational geometry-based approach for the characterization of shape and dynamics of biological ion channels or pores to be used in combination with MD trajectories. This technique relies on the earliest works of Edelsbrunner and on the NanoShaper software, which makes use of the alpha shapes theory to build the solvent excluded surface of a molecular system in aqueous solution. In this framework, a channel can be simply defined as a cavity with two entrances on the opposite sides of a molecule. Morphological characterization, which includes identification of the main axis, the corresponding local radius, and the detailed description of the global shape of the cavity, is integrated with a physico-chemical description of the surface facing the pore lumen. Remarkably, the possible existence or temporarily appearance of fenestrations from channel interior towards the outer lipid matrix is also accounted. As a test case, we applied the present approach to the analysis of an engineered protein channel, the mechanosensitive channel of large conductance.
+
+
+
+https://github.com/rea1991/Chanalyzer.git

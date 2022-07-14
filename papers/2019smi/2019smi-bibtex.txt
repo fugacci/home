@@ -1,0 +1,12 @@
+@article{Corbet2019,
+title = {{A Kernel for Multi-Parameter Persistent Homology}},
+journal = {Computers \& Graphics },
+volume = {2},
+pages = {100005},
+year = {2019},
+note = {International Conference Shape Modeling International},
+issn = {2590-1486},
+doi = {https://doi.org/10.1016/j.cagx.2019.100005},
+url = {http://www.sciencedirect.com/science/article/pii/S2590148619300056},
+author = {R. Corbet and U. Fugacci and M. Kerber and C. Landi and B. Wang}
+}
