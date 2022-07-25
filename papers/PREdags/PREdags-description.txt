@@ -1,6 +1,0 @@
-Multiparameter Persistent Homology for Shape Analysis
-Preprints
-U. Fugacci, F. Iuricich, S. Scaramuccia, L. De Floriani
-Under submission
-
-Topological data analysis has proved to be a promising tool for shape analysis. Topological descriptors can be extracted from a shape using multiple functions and, instead of considering each function independently, one could group them in a single vector-valued function. Building a descriptor for a multivariate function allows representing features that are generally missed when working with the functions one by one. This idea is made practicable by multiparameter persistent homology, a new tool in topological data analysis. In this work, we provide an overview of the theoretical guarantees provided by multiparameter persistent homology and review and analyse available algorithms and techniques with a specific focus on shape analysis.
