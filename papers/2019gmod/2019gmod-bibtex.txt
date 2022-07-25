@@ -1,0 +1,11 @@
+@article{fugacci2019computing,
+  title={{Computing Discrete {M}orse Complexes from Simplicial Complexes}},
+  author={Fugacci, U. and Iuricich, F. and {De Floriani}, L.},
+  journal={Graphical Models},
+  volume = {103},
+  pages = {101023},
+  year = {2019},
+  issn = {1524-0703},
+  doi = {https://doi.org/10.1016/j.gmod.2019.101023},
+  url = {http://www.sciencedirect.com/science/article/pii/S1524070319300141}
+}
