@@ -63,25 +63,6 @@ Under submission
 Topological data analysis has proved to be a promising tool for shape analysis. Topological descriptors can be extracted from a shape using multiple functions and, instead of considering each function independently, one could group them in a single vector-valued function. Building a descriptor for a multivariate function allows representing features that are generally missed when working with the functions one by one. This idea is made practicable by multiparameter persistent homology, a new tool in topological data analysis. In this work, we provide an overview of the theoretical guarantees provided by multiparameter persistent homology and review and analyse available algorithms and techniques with a specific focus on shape analysis.
 </details>
   </div>
-<div id=paper>
-<p><b>
-Compression for 2-Parameter Persistent Homology
-</b><br>
-U. Fugacci, M. Kerber, A. Rolle
-<br>
-<em>
-Under submission, preprint available at arXiv.org
-</em><br>
-[<a target='_blank' href='
-https://bitbucket.org/mkerber/cgta_paper_2021/src/master/
-'>code</a>]
-[<a target='_blank' href='
-https://arxiv.org/abs/2107.10924
-'>arXiv</a>]
-<details><summary>Abstract</summary>
-Compression aims to reduce the size of an input, while maintaining its relevant properties. For multi-parameter persistent homology, compression is a necessary step in any computational pipeline, since standard constructions lead to large inputs, and computational tasks in this area tend to be expensive. We propose two compression methods for chain complexes of free 2-parameter persistence modules. The first method extends the multi-chunk algorithm for one-parameter persistent homology, returning the smallest chain complex among all the ones quasi-isomorphic to the input. The second method produces minimal presentations of the homology of the input; it is based on an algorithm of Lesnick and Wright, but incorporates several improvements that lead to dramatic performance gains. The two methods are complementary, and can be combined to compute minimal presentations for complexes with millions of generators in a few seconds. The methods have been implemented, and the software is publicly available. We report on experimental evaluations, which demonstrate substantial improvements in performance compared to previously available compression strategies.
-</details>
-  </div>
 <br><h2 id=name>
 2022
 </h2>
@@ -128,6 +109,31 @@ Morphological analysis of protein channels is a key step for a thorough understa
   </div>
 <div id=paper>
 <p><b>
+Compression for 2-Parameter Persistent Homology
+</b><br>
+U. Fugacci, M. Kerber, A. Rolle
+<br>
+<em>
+In Computational Geometry, page 101940, 2022
+</em><br>
+[<a target='_blank' href='
+papers/2022cgeom/2022cgeom-bibtex.txt
+'>bibtex</a>]
+[<a target='_blank' href='
+https://doi.org/10.1016/j.comgeo.2022.101940
+'>doi</a>]
+[<a target='_blank' href='
+https://repository.tugraz.at/records/xcs8c-hjm53
+'>code</a>]
+[<a target='_blank' href='
+https://arxiv.org/abs/2107.10924
+'>arXiv</a>]
+<details><summary>Abstract</summary>
+Compression aims to reduce the size of an input, while maintaining its relevant properties. For multi-parameter persistent homology, compression is a necessary step in any computational pipeline, since standard constructions lead to large inputs, and computational tasks in this area tend to be expensive. We propose two compression methods for chain complexes of free 2-parameter persistence modules. The first method extends the multi-chunk algorithm for one-parameter persistent homology, returning the smallest chain complex among all the ones quasi-isomorphic to the input. The second method produces minimal presentations of the homology of the input; it is based on an algorithm of Lesnick and Wright, but incorporates several improvements that lead to substantial performance gains. The two methods are complementary, and can be combined to compute minimal presentations for complexes with millions of generators in a few seconds. The methods have been implemented, and the software is publicly available. We report on experimental evaluations, which demonstrate substantial improvements in performance compared to previously available compression strategies.
+</details>
+  </div>
+<div id=paper>
+<p><b>
 SHREC 2022: Protein-Ligand Binding Site Recognition
 </b><br>
 L. Gagliardi, A. Raffo, U. Fugacci, S. Biasotti, W. Rocchia, et al.
@@ -141,6 +147,9 @@ papers/2022cg/2022cg-bibtex.txt
 [<a target='_blank' href='
 https://doi.org/10.1016/j.cag.2022.07.005
 '>doi</a>]
+[<a target='_blank' href='
+papers/2022cg/2022cg-pres.pdf
+'>slides</a>]
 [<a target='_blank' href='
 https://github.com/concept-lab/shrec22_proteinLigandBenchmark
 '>code</a>]

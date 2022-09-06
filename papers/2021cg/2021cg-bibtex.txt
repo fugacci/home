@@ -1,0 +1,11 @@
+@article{RAFFO20211,
+title = {{SHREC 2021}: Retrieval and classification of protein surfaces equipped with physical and chemical properties},
+journal = {Computers & Graphics},
+volume = {99},
+pages = {1-21},
+year = {2021},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2021.06.010},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849321001254},
+author = {Andrea Raffo and Ulderico Fugacci and Silvia Biasotti and Walter Rocchia and Yonghuai Liu and Ekpo Otu and Reyer Zwiggelaar and David Hunter and Evangelia I. Zacharaki and Eleftheria Psatha and Dimitrios Laskos and Gerasimos Arvanitis and Konstantinos Moustakas and Tunde Aderinwale and Charles Christoffer and Woong-Hee Shin and Daisuke Kihara and Andrea Giachetti and Huu-Nghia Nguyen and Tuan-Duy Nguyen and Vinh-Thuyen Nguyen-Truong and Danh Le-Thanh and Hai-Dang Nguyen and Minh-Triet Tran}
+}

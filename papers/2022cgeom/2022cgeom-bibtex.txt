@@ -1,0 +1,12 @@
+@article{FUGACCI2022101940,
+title = {Compression for 2-Parameter Persistent Homology},
+journal = {Computational Geometry},
+pages = {101940},
+year = {2022},
+issn = {0925-7721},
+doi = {https://doi.org/10.1016/j.comgeo.2022.101940},
+url = {https://www.sciencedirect.com/science/article/pii/S0925772122000839},
+author = {Ulderico Fugacci and Michael Kerber and Alexander Rolle},
+keywords = {Multi-parameter persistent homology, matrix reduction, minimal presentations},
+abstract = {Compression aims to reduce the size of an input, while maintaining its relevant properties. For multi-parameter persistent homology, compression is a necessary step in any computational pipeline, since standard constructions lead to large inputs, and computational tasks in this area tend to be expensive. We propose two compression methods for chain complexes of free 2-parameter persistence modules. The first method extends the multi-chunk algorithm for one-parameter persistent homology, returning the smallest chain complex among all the ones quasi-isomorphic to the input. The second method produces minimal presentations of the homology of the input; it is based on an algorithm of Lesnick and Wright, but incorporates several improvements that lead to substantial performance gains. The two methods are complementary, and can be combined to compute minimal presentations for complexes with millions of generators in a few seconds. The methods have been implemented, and the software is publicly available. We report on experimental evaluations, which demonstrate substantial improvements in performance compared to previously available compression strategies.}
+}

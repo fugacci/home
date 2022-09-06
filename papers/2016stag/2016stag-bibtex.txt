@@ -1,0 +1,11 @@
+@inproceedings {stag.20161358,
+booktitle = {Smart Tools and Apps for Graphics - Eurographics Italian Chapter Conference},
+editor = {Giovanni Pintore and Filippo Stanco},
+title = {{Persistent Homology: a Step-by-step Introduction for Newcomers}},
+author = {Fugacci, Ulderico and Scaramuccia, Sara and Iuricich, Federico and {De Floriani}, Leila},
+year = {2016},
+publisher = {The Eurographics Association},
+ISSN = {-},
+ISBN = {978-3-03868-026-0},
+DOI = {10.2312/stag.20161358}
+}
