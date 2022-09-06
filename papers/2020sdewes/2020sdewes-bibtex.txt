@@ -1,6 +1,0 @@
-@article{DellaSanta2020,
-  title={Application of Deep Learning to Design Renewable Energy Systems for a Zero Energy Multifamily Building},
-  author={{Della Santa}, F. and Ferrara, M. and Bilardo, M. and {De Gregorio}, A. and Fugacci, U. and Mastropietro, A. and Fabrizio, E. and Vaccarino, F.},
-  journal={15th Conference on Sustainable Development of Energy, Water and Environment Systems},
-  year={2020}
-}
